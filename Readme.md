@@ -2,6 +2,12 @@
 ## Overview
   Ron is a futuristic virtual assistant designed to simplify daily tasks for software engineers, data scientists, and other professionals. It combines cutting-edge voice recognition, text-to-speech (TTS), and an aesthetically pleasing 3D futuristic GUI to create a seamless user experience. Whether it's opening applications, running scripts, analyzing datasets, or providing web-based solutions, Ron is your go-to assistant.
 
+# For start cotributing 
+1. clone github 
+2. run this command : pip install -r requerments.txt
+3. npm i @huggingface/transformers
+4. python assistant.py 
+
 # Key Features
 ## Voice Recognition & TTS:
 

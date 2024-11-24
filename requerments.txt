@@ -1,0 +1,10 @@
+pyttsx3 
+SpeechRecognition
+pyaudio 
+pywhatkit 
+pipwin
+pyinstaller
+pyqt5 
+pyqtgraph 
+vpython 
+pyqt5-tools   
